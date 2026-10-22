@@ -1,0 +1,511 @@
+﻿StudentID,Subject
+SV001,Database Systems
+SV001,Discrete Mathematics
+SV001,Mathematics
+SV001,Programming
+SV002,Algorithms
+SV002,Data Structures
+SV002,Database Systems
+SV002,Mathematics
+SV003,Algorithms
+SV003,Discrete Mathematics
+SV003,Mathematics
+SV003,Programming
+SV004,Algorithms
+SV004,Data Structures
+SV004,Discrete Mathematics
+SV004,Mathematics
+SV004,Programming
+SV005,Algorithms
+SV005,Database Systems
+SV005,Mathematics
+SV005,Programming
+SV006,Algorithms
+SV006,Database Systems
+SV006,Discrete Mathematics
+SV006,Programming
+SV007,Algorithms
+SV007,Database Systems
+SV007,Mathematics
+SV007,Programming
+SV008,Algorithms
+SV008,Data Structures
+SV008,Database Systems
+SV008,Mathematics
+SV008,Programming
+SV009,Database Systems
+SV009,Discrete Mathematics
+SV009,Mathematics
+SV009,Programming
+SV010,Algorithms
+SV010,Database Systems
+SV010,Discrete Mathematics
+SV010,Mathematics
+SV011,Algorithms
+SV011,Database Systems
+SV011,Mathematics
+SV011,Programming
+SV012,Algorithms
+SV012,Database Systems
+SV012,Discrete Mathematics
+SV012,Mathematics
+SV012,Programming
+SV013,Algorithms
+SV013,Data Structures
+SV013,Database Systems
+SV013,Discrete Mathematics
+SV014,Algorithms
+SV014,Data Structures
+SV014,Discrete Mathematics
+SV014,Mathematics
+SV015,Data Structures
+SV015,Database Systems
+SV015,Discrete Mathematics
+SV015,Mathematics
+SV016,Algorithms
+SV016,Database Systems
+SV016,Discrete Mathematics
+SV016,Mathematics
+SV016,Programming
+SV017,Data Structures
+SV017,Discrete Mathematics
+SV017,Mathematics
+SV017,Programming
+SV018,Algorithms
+SV018,Data Structures
+SV018,Mathematics
+SV018,Programming
+SV019,Data Structures
+SV019,Discrete Mathematics
+SV019,Mathematics
+SV019,Programming
+SV020,Algorithms
+SV020,Database Systems
+SV020,Discrete Mathematics
+SV020,Mathematics
+SV020,Programming
+SV021,Computer Architecture
+SV021,Electronics
+SV021,Mathematics
+SV021,Physics
+SV022,Computer Architecture
+SV022,Digital Logic
+SV022,Electronics
+SV022,Physics
+SV023,Computer Architecture
+SV023,Digital Logic
+SV023,Mathematics
+SV023,Physics
+SV024,Computer Architecture
+SV024,Digital Logic
+SV024,Electronics
+SV024,Mathematics
+SV024,Physics
+SV025,Computer Architecture
+SV025,Digital Logic
+SV025,Electronics
+SV025,Mathematics
+SV026,Computer Architecture
+SV026,Electronics
+SV026,Mathematics
+SV026,Physics
+SV027,Computer Architecture
+SV027,Electronics
+SV027,Mathematics
+SV027,Physics
+SV028,Computer Architecture
+SV028,Digital Logic
+SV028,Electronics
+SV028,Mathematics
+SV028,Physics
+SV029,Computer Architecture
+SV029,Digital Logic
+SV029,Mathematics
+SV029,Physics
+SV030,Computer Architecture
+SV030,Digital Logic
+SV030,Electronics
+SV030,Mathematics
+SV031,Computer Architecture
+SV031,Digital Logic
+SV031,Mathematics
+SV031,Physics
+SV032,Computer Architecture
+SV032,Digital Logic
+SV032,Electronics
+SV032,Mathematics
+SV032,Physics
+SV033,Computer Architecture
+SV033,Digital Logic
+SV033,Mathematics
+SV033,Physics
+SV034,Computer Architecture
+SV034,Digital Logic
+SV034,Electronics
+SV034,Physics
+SV035,Computer Architecture
+SV035,Digital Logic
+SV035,Electronics
+SV035,Physics
+SV036,Computer Architecture
+SV036,Digital Logic
+SV036,Electronics
+SV036,Mathematics
+SV036,Physics
+SV037,Computer Architecture
+SV037,Electronics
+SV037,Mathematics
+SV037,Physics
+SV038,Computer Architecture
+SV038,Digital Logic
+SV038,Electronics
+SV038,Mathematics
+SV039,Computer Architecture
+SV039,Digital Logic
+SV039,Mathematics
+SV039,Physics
+SV040,Computer Architecture
+SV040,Digital Logic
+SV040,Electronics
+SV040,Mathematics
+SV040,Physics
+SV041,Computer Networks
+SV041,Operating Systems
+SV041,Programming
+SV041,Software Engineering
+SV042,Computer Networks
+SV042,Information Security
+SV042,Programming
+SV042,Software Engineering
+SV043,Computer Networks
+SV043,Information Security
+SV043,Programming
+SV043,Software Engineering
+SV044,Computer Networks
+SV044,Information Security
+SV044,Operating Systems
+SV044,Programming
+SV044,Software Engineering
+SV045,Computer Networks
+SV045,Information Security
+SV045,Operating Systems
+SV045,Programming
+SV046,Computer Networks
+SV046,Information Security
+SV046,Operating Systems
+SV046,Programming
+SV047,Computer Networks
+SV047,Information Security
+SV047,Operating Systems
+SV047,Programming
+SV048,Computer Networks
+SV048,Information Security
+SV048,Operating Systems
+SV048,Programming
+SV048,Software Engineering
+SV049,Computer Networks
+SV049,Information Security
+SV049,Operating Systems
+SV049,Programming
+SV050,Information Security
+SV050,Operating Systems
+SV050,Programming
+SV050,Software Engineering
+SV051,Computer Networks
+SV051,Information Security
+SV051,Operating Systems
+SV051,Programming
+SV052,Computer Networks
+SV052,Information Security
+SV052,Operating Systems
+SV052,Programming
+SV052,Software Engineering
+SV053,Information Security
+SV053,Operating Systems
+SV053,Programming
+SV053,Software Engineering
+SV054,Computer Networks
+SV054,Operating Systems
+SV054,Programming
+SV054,Software Engineering
+SV055,Computer Networks
+SV055,Information Security
+SV055,Programming
+SV055,Software Engineering
+SV056,Computer Networks
+SV056,Information Security
+SV056,Operating Systems
+SV056,Programming
+SV056,Software Engineering
+SV057,Information Security
+SV057,Operating Systems
+SV057,Programming
+SV057,Software Engineering
+SV058,Information Security
+SV058,Operating Systems
+SV058,Programming
+SV058,Software Engineering
+SV059,Computer Networks
+SV059,Information Security
+SV059,Operating Systems
+SV059,Programming
+SV060,Computer Networks
+SV060,Information Security
+SV060,Operating Systems
+SV060,Programming
+SV060,Software Engineering
+SV061,Artificial Intelligence
+SV061,Linear Algebra
+SV061,Mathematics
+SV061,Probability and Statistics
+SV062,Artificial Intelligence
+SV062,Linear Algebra
+SV062,Mathematics
+SV062,Probability and Statistics
+SV063,Artificial Intelligence
+SV063,Linear Algebra
+SV063,Mathematics
+SV063,Probability and Statistics
+SV064,Artificial Intelligence
+SV064,Linear Algebra
+SV064,Mathematics
+SV064,Probability and Statistics
+SV064,Signals and Systems
+SV065,Linear Algebra
+SV065,Mathematics
+SV065,Probability and Statistics
+SV065,Signals and Systems
+SV066,Artificial Intelligence
+SV066,Linear Algebra
+SV066,Mathematics
+SV066,Probability and Statistics
+SV067,Linear Algebra
+SV067,Mathematics
+SV067,Probability and Statistics
+SV067,Signals and Systems
+SV068,Artificial Intelligence
+SV068,Linear Algebra
+SV068,Mathematics
+SV068,Probability and Statistics
+SV068,Signals and Systems
+SV069,Linear Algebra
+SV069,Mathematics
+SV069,Probability and Statistics
+SV069,Signals and Systems
+SV070,Artificial Intelligence
+SV070,Linear Algebra
+SV070,Mathematics
+SV070,Probability and Statistics
+SV071,Artificial Intelligence
+SV071,Linear Algebra
+SV071,Probability and Statistics
+SV071,Signals and Systems
+SV072,Artificial Intelligence
+SV072,Linear Algebra
+SV072,Mathematics
+SV072,Probability and Statistics
+SV072,Signals and Systems
+SV073,Artificial Intelligence
+SV073,Mathematics
+SV073,Probability and Statistics
+SV073,Signals and Systems
+SV074,Artificial Intelligence
+SV074,Mathematics
+SV074,Probability and Statistics
+SV074,Signals and Systems
+SV075,Linear Algebra
+SV075,Mathematics
+SV075,Probability and Statistics
+SV075,Signals and Systems
+SV076,Artificial Intelligence
+SV076,Linear Algebra
+SV076,Mathematics
+SV076,Probability and Statistics
+SV076,Signals and Systems
+SV077,Artificial Intelligence
+SV077,Mathematics
+SV077,Probability and Statistics
+SV077,Signals and Systems
+SV078,Artificial Intelligence
+SV078,Linear Algebra
+SV078,Mathematics
+SV078,Probability and Statistics
+SV079,Artificial Intelligence
+SV079,Mathematics
+SV079,Probability and Statistics
+SV079,Signals and Systems
+SV080,Artificial Intelligence
+SV080,Linear Algebra
+SV080,Mathematics
+SV080,Probability and Statistics
+SV080,Signals and Systems
+SV081,Computer Architecture
+SV081,Electronics
+SV081,Microprocessors
+SV081,Signals and Systems
+SV082,Electronics
+SV082,Microprocessors
+SV082,Physics
+SV082,Signals and Systems
+SV083,Computer Architecture
+SV083,Microprocessors
+SV083,Physics
+SV083,Signals and Systems
+SV084,Computer Architecture
+SV084,Electronics
+SV084,Microprocessors
+SV084,Physics
+SV084,Signals and Systems
+SV085,Computer Architecture
+SV085,Electronics
+SV085,Physics
+SV085,Signals and Systems
+SV086,Computer Architecture
+SV086,Electronics
+SV086,Physics
+SV086,Signals and Systems
+SV087,Electronics
+SV087,Microprocessors
+SV087,Physics
+SV087,Signals and Systems
+SV088,Computer Architecture
+SV088,Electronics
+SV088,Microprocessors
+SV088,Physics
+SV088,Signals and Systems
+SV089,Computer Architecture
+SV089,Electronics
+SV089,Physics
+SV089,Signals and Systems
+SV090,Electronics
+SV090,Microprocessors
+SV090,Physics
+SV090,Signals and Systems
+SV091,Computer Architecture
+SV091,Microprocessors
+SV091,Physics
+SV091,Signals and Systems
+SV092,Computer Architecture
+SV092,Electronics
+SV092,Microprocessors
+SV092,Physics
+SV092,Signals and Systems
+SV093,Computer Architecture
+SV093,Electronics
+SV093,Physics
+SV093,Signals and Systems
+SV094,Computer Architecture
+SV094,Electronics
+SV094,Physics
+SV094,Signals and Systems
+SV095,Computer Architecture
+SV095,Microprocessors
+SV095,Physics
+SV095,Signals and Systems
+SV096,Computer Architecture
+SV096,Electronics
+SV096,Microprocessors
+SV096,Physics
+SV096,Signals and Systems
+SV097,Computer Architecture
+SV097,Electronics
+SV097,Microprocessors
+SV097,Signals and Systems
+SV098,Electronics
+SV098,Microprocessors
+SV098,Physics
+SV098,Signals and Systems
+SV099,Electronics
+SV099,Microprocessors
+SV099,Physics
+SV099,Signals and Systems
+SV100,Computer Architecture
+SV100,Electronics
+SV100,Microprocessors
+SV100,Physics
+SV100,Signals and Systems
+SV101,Artificial Intelligence
+SV101,Database Systems
+SV101,Information Security
+SV101,Web Development
+SV102,Database Systems
+SV102,Information Security
+SV102,Programming
+SV102,Web Development
+SV103,Artificial Intelligence
+SV103,Information Security
+SV103,Programming
+SV103,Web Development
+SV104,Artificial Intelligence
+SV104,Database Systems
+SV104,Information Security
+SV104,Programming
+SV104,Web Development
+SV105,Artificial Intelligence
+SV105,Database Systems
+SV105,Information Security
+SV105,Web Development
+SV106,Artificial Intelligence
+SV106,Database Systems
+SV106,Information Security
+SV106,Web Development
+SV107,Artificial Intelligence
+SV107,Information Security
+SV107,Programming
+SV107,Web Development
+SV108,Artificial Intelligence
+SV108,Database Systems
+SV108,Information Security
+SV108,Programming
+SV108,Web Development
+SV109,Artificial Intelligence
+SV109,Information Security
+SV109,Programming
+SV109,Web Development
+SV110,Artificial Intelligence
+SV110,Database Systems
+SV110,Information Security
+SV110,Programming
+SV111,Artificial Intelligence
+SV111,Database Systems
+SV111,Programming
+SV111,Web Development
+SV112,Artificial Intelligence
+SV112,Database Systems
+SV112,Information Security
+SV112,Programming
+SV112,Web Development
+SV113,Artificial Intelligence
+SV113,Database Systems
+SV113,Information Security
+SV113,Web Development
+SV114,Artificial Intelligence
+SV114,Database Systems
+SV114,Programming
+SV114,Web Development
+SV115,Database Systems
+SV115,Information Security
+SV115,Programming
+SV115,Web Development
+SV116,Artificial Intelligence
+SV116,Database Systems
+SV116,Information Security
+SV116,Programming
+SV116,Web Development
+SV117,Database Systems
+SV117,Information Security
+SV117,Programming
+SV117,Web Development
+SV118,Artificial Intelligence
+SV118,Database Systems
+SV118,Information Security
+SV118,Web Development
+SV119,Artificial Intelligence
+SV119,Information Security
+SV119,Programming
+SV119,Web Development
+SV120,Artificial Intelligence
+SV120,Database Systems
+SV120,Information Security
+SV120,Programming
+SV120,Web Development
